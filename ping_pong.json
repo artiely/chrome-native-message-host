@@ -1,0 +1,10 @@
+{
+  "name": "ping_pong",
+  "description": "My Application",
+  "path": "/Users/tanjie/Desktop/ping/ping_pong.js",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ebnbccpndlpnbgdohobmhkfgnpfhkenl/",
+    "chrome-extension://epohedmjpglmaklbjagiocfmegjceinh/"
+  ]
+}
